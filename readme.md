@@ -105,8 +105,8 @@ You can also check the [Terminology](#terminology) section for extra information
 ## Others Double
 
 - [12-bit DVI](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/dvi-12bit) by [Piotr Esden-Tempski](https://github.com/esden)
-- [S70KL1281 HyperRAM](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/hyperram) by [Piotr Esden-Tempski](https://github.com/esden)
 - [LED Panel](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/led-panel) by [Piotr Esden-Tempski](https://github.com/esden)
+- [S70KL1281 HyperRAM](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/hyperram) by [Piotr Esden-Tempski](https://github.com/esden)
 
 
 ## Specification
