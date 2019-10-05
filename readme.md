@@ -99,14 +99,22 @@ You can also check the [Terminology](#terminology) section for extra information
 
 - [3-bit DVI](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/dvi-3bit) by [Piotr Esden-Tempski](https://github.com/esden)
 - [4-bit DVI](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/dvi-4bit) by [Piotr Esden-Tempski](https://github.com/esden)
+- [Accelerometer, Gyro](https://github.com/xesscorp/StickIt/tree/master/modules/MPU) by [XESS Corp](https://github.com/xesscorp)
+- [Audio Codec](https://github.com/xesscorp/StickIt/tree/master/modules/Audio) by [XESS Corp](https://github.com/xesscorp)
+- [Buttons](https://github.com/xesscorp/StickIt/tree/master/modules/Buttons) by [XESS Corp](https://github.com/xesscorp)
+- [DIP Switch](https://github.com/xesscorp/StickIt/tree/master/modules/DIPSwitch) by [XESS Corp](https://github.com/xesscorp)
+- [LED Digits](https://github.com/xesscorp/StickIt/tree/master/modules/LedDigits) by [XESS Corp](https://github.com/xesscorp)
 - [LED Panel](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/led-panel-single) by [Piotr Esden-Tempski](https://github.com/esden)
 - [LED Panel Mini](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/led-panel-single-mini) by [Piotr Esden-Tempski](https://github.com/esden)
+- [PS/2 Interface](https://github.com/xesscorp/StickIt/tree/master/modules/Ps2) by [XESS Corp](https://github.com/xesscorp)
+- [Rotary Encoder (Dual)](https://github.com/xesscorp/StickIt/tree/master/modules/RotaryEncoder) by [XESS Corp](https://github.com/xesscorp)
 
 ## Others Double
 
 - [12-bit DVI](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/dvi-12bit) by [Piotr Esden-Tempski](https://github.com/esden)
 - [LED Panel](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/led-panel) by [Piotr Esden-Tempski](https://github.com/esden)
 - [S70KL1281 HyperRAM](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/hyperram) by [Piotr Esden-Tempski](https://github.com/esden)
+- [VGA (15-bit)](https://github.com/xesscorp/StickIt/tree/master/modules/Vga) by [XESS Corp.](https://github.com/xesscorp)
 
 
 ## Specification
