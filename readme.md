@@ -35,13 +35,17 @@ You can also check the [Terminology](#terminology) section for extra information
 
 ## GPIO
 
-- [List item](http://example.com)
+- [Raw USB](https://github.com/TomKeddie/prj-pmod/tree/master/hardware/pmod-usb-raw) by [Tom Keddie](https://github.com/TomKeddie)
+- [SAO adapter](https://github.com/TomKeddie/prj-pmod/tree/master/hardware/pmod-sao) by [Tom Keddie](https://github.com/TomKeddie)
 
 
 ## Expanded GPIO
 
 - [7 Segment Display](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/7segment) by [Piotr Esden-Tempski](https://github.com/esden)
+- [8 x 7 Segment Display](https://github.com/twam/Pmod7Segment) by [Tobias Müller](https://github.com/twam)
 - [DIP Switch](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/dip-switch) by [Piotr Esden-Tempski](https://github.com/esden)
+- [Level Converter](https://github.com/TomKeddie/prj-pmod/tree/master/hardware/pmod-level-conv) by [Tom Keddie](https://github.com/TomKeddie)
+- [Simple LED](https://github.com/TomKeddie/prj-pmod/tree/master/hardware/pmod-eight-led) by [Tom Keddie](https://github.com/TomKeddie)
 - [TriState LED](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/tristate-led) by [Piotr Esden-Tempski](https://github.com/esden)
 
 ## SPI
@@ -108,6 +112,7 @@ You can also check the [Terminology](#terminology) section for extra information
 - [LED Panel Mini](https://github.com/icebreaker-fpga/icebreaker-pmod/tree/master/led-panel-single-mini) by [Piotr Esden-Tempski](https://github.com/esden)
 - [PS/2 Interface](https://github.com/xesscorp/StickIt/tree/master/modules/Ps2) by [XESS Corp](https://github.com/xesscorp)
 - [Rotary Encoder (Dual)](https://github.com/xesscorp/StickIt/tree/master/modules/RotaryEncoder) by [XESS Corp](https://github.com/xesscorp)
+- [SAMD21](https://github.com/TomKeddie/prj-pmod/tree/master/hardware/pmod-samd21) by  [Tom Keddie](https://github.com/TomKeddie)
 
 ## Others Double
 
